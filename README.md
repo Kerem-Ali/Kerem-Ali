@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Skills
--Python3
--C
--C++
--R
--C#
--Java
+- Python3
+- C
+- C++
+- R
+- C#
+- Java
 
