@@ -1,7 +1,6 @@
 - 👋 Hi, My name is Kerem Ali
 - 👀 I’m interested in AI&ML and Desktop Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 
 <!---
@@ -10,3 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Skills
+-Python3
+-C
+-C++
+-R
+-C#
+-Java
+
