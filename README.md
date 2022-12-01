@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 - Solidworks
 - LabView
 
+## "The function of good software is to make the complex appear to be simple." (Grady Booch)
+
