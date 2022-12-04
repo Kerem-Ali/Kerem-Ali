@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Kerem Ali
 - 👀 I’m interested in AI&ML and Desktop Development
-- 
 - 🌱 I’m currently learning Java& puzzle->generator+solver
 - 📫 How to reach me ...
 
