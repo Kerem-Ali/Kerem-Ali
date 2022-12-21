@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Kerem Ali
-- 👀 I’m interested in AI&ML and Desktop Development
-- 🌱 I’m currently learning Java& puzzle->generator+solver
+- 👀 I’m interested in AI&ML,Data Science and Desktop Development
+- 🌱 I’m currently learning puzzle->generator+solver,developing a school managament system
 - 📫 How to reach me ...
 
 My Codewars Account: https://www.codewars.com/users/Kerem_Ali
