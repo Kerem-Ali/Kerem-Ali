@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Skills
-- Python3
+- Python
 - C
 - C++
 - R
@@ -19,4 +19,3 @@ You can click the Preview link to take a look at your changes.
 - MATLAB
 - Proteus
 - Solidworks
-- LabView
