@@ -5,11 +5,7 @@
 
 My ;
 - Codewars Account: https://www.codewars.com/users/Kerem_Ali
-- Coderbyte Account: https://www.coderbyte.com/profile/KeremAli
-- HackerRank Account: https://www.hackerrank.com/keremali
-- HackerEarth Account: https://www.hackerearth.com/@keremaliavcioglu3
 - Codechef Account: https://www.codechef.com/users/keremali
-- Topcoder Account: https://www.topcoder.com/members/Kerem_Ali
 - LeetCode Account: https://leetcode.com/Kerem_Ali/
 
 
