@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Kerem Ali
-- 👀 I’m interested in AI&ML,Data Science and Desktop Development
+- 👀 I’m interested in Data Science and Desktop Development
 - 🌱 I’m currently learning
 - 📫 How to reach me ...
 
