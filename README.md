@@ -55,4 +55,5 @@ src="https://img.shields.io/github/followers/Kerem-Ali?logo=github&style=for-the
 
 <a href="https://github.com/Kerem-Ali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerem-Ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>My Codewars Account</b>
 <a href="https://www.codewars.com/users/Kerem_Ali/" align="center"><img src="https://www.codewars.com/users/Kerem_Ali/badges/large" alt="Codewars" /></a>
