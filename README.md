@@ -12,8 +12,6 @@ Jr. Software Developer | Jr. Data Scientist
 
 <a href="https://www.github.com/Kerem-Ali" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kerem-Ali?logo=github&style=for-the-badge&style=flat-square&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.github.com/Kerem-Ali" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=Kerem-Ali&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
