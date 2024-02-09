@@ -1,7 +1,7 @@
 Hi ! My name is Kerem Ali AVCIOGLU
 ==============================
 
-Jr. Software Developer | Jr. Data Scientist
+Software Developer | Data Scientist | Competitive Programmer
 -----------------------------------------
 
 
