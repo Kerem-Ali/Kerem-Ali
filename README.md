@@ -43,7 +43,6 @@ src="https://img.shields.io/github/followers/Kerem-Ali?logo=github&style=for-the
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="https://wiki.gnome.org/Projects/GTK/Logo?action=AttachFile&do=get&target=gtk-logo.png" width="36" height="36" alt="GTK" /></a>
 <a href="https://www.kivy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" width="36" height="36" alt="Kivy" /></a>
 <br><br>
-<a href="https://www.pardus.org.tr/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/26787837?s=200&v=4" width="36" height="36" alt="Kivy" /></a>
 </p>
 
 
