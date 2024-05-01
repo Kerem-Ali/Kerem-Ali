@@ -7,7 +7,7 @@ Software Developer | Data Scientist | Competitive Programmer
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [keremaliavcioglu3@gmail.com](mailto:keremaliavcioglu3@gmail.com)
-* 🔍 I'm learning Deep Learning
+* 🔍 I'm learning Machine Learning
 * 📚 I'm currently studying at [ITU MTAL](http://itumtal.meb.k12.tr)
 * Codeforces: [KeremAli](https://codeforces.com/profile/KeremAli)
 
