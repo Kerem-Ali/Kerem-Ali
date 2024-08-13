@@ -17,17 +17,11 @@ src="https://img.shields.io/github/followers/Kerem-Ali?logo=github&style=for-the
 ### Skills
 
 <p align="left">
-<a href="https://iso.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" width="36" height="36" alt="C" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="36" height="36" alt="R" /></a>
 <br><br>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="36" height="36" alt="Sqlite" /></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" width="36" height="36" alt="Arduino" /></a>
+
+
 <br><br>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="36" height="36" alt="Pandas" /></a>
