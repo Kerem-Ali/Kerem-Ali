@@ -56,6 +56,6 @@ class AIExpertise:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kerem-Ali&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://img.shields.io/badge/FORGED%20BY-ETERNAL%20WISDOM%20⚔️-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNLEASHED%20BY-PRIMORDIAL%20FORCES%20⚡-800000?style=for-the-badge"/>
 </p>
