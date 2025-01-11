@@ -23,10 +23,6 @@ class AIExpertise:
         self.specialization = "Autonomous Systems Development"
 ```
 
-## 🏅 Achievements
-- 2nd in Turkey / 112th Worldwide - Constructor Open Cup 2024 - Training
-- 37th among University Teams - ITU AlgoComp'24
-- TOP-45 in Yandex Cup 2024 (ML - Self-Driving Cars)
 
 ## 📊 Competitive Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-KeremAli-blue)](https://codeforces.com/profile/KeremAli)
