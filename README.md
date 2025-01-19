@@ -1,5 +1,4 @@
 # Kerem Ali AVCIOGLU 🚀
-
 > AI Developer | Competitive Programmer | Computer Science Enthusiast
 > 
 > Founder & Leader of [AI TEAM](https://github.com/itumtalaiteam) - Managing 15 Specialized Sub-teams
@@ -23,10 +22,11 @@ class AIExpertise:
         self.specialization = "Autonomous Systems Development"
 ```
 
-
 ## 📊 Competitive Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-KeremAli-blue)](https://codeforces.com/profile/KeremAli)
 [![CodeWars](https://img.shields.io/badge/Codewars-Kerem__Ali-red)](https://www.codewars.com/users/Kerem_Ali)
+[![Kaggle](https://img.shields.io/badge/Kaggle-keremaliavciolu-lightblue)](https://www.kaggle.com/keremaliavciolu)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-keremali-yellow)](https://huggingface.co/keremali)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerem-Ali&show_icons=true&theme=radical)
@@ -37,7 +37,6 @@ class AIExpertise:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://keremali.pythonanywhere.com)
 
 ---
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kerem-Ali&theme=radical&row=1&column=6" alt="trophy">
 </p>
