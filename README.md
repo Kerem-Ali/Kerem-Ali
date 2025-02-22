@@ -1,7 +1,7 @@
 # Kerem Ali AVCIOGLU 🚀
 > AI Developer | Competitive Programmer | Computer Science Enthusiast
 > 
-> Founder & Leader of [AI TEAM](https://github.com/itumtalaiteam) - Managing 15 Specialized Sub-teams
+> Founder & Leader of [AI TEAM](https://github.com/itumtalaiteam) - Having 15 Specialized Sub-teams
 
 ## 🤖 Tech Stack
 ```python
